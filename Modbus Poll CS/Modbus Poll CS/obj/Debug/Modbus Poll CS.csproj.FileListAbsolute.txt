@@ -1,0 +1,31 @@
+D:\Prj-PG\Modbus Poll CS\Modbus Poll CS\bin\Debug\Modbus Poll CS.exe
+D:\Prj-PG\Modbus Poll CS\Modbus Poll CS\bin\Debug\Modbus Poll CS.pdb
+D:\Prj-PG\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.csprojResolveAssemblyReference.cache
+D:\Prj-PG\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.Form1.resources
+D:\Prj-PG\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.Properties.Resources.resources
+D:\Prj-PG\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.csproj.GenerateResource.Cache
+D:\Prj-PG\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.exe
+D:\Prj-PG\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.pdb
+D:\Prj-PG\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.MainGUI.resources
+D:\Prj-PG\Modbus Poll CS\Modbus Poll CS\bin\Debug\Modbus Poll CS.exe.config
+D:\Prj-PG\Modbus Poll CS\Modbus Poll CS\bin\Debug\LBIndustrialCtrls.dll
+D:\Prj-PG\Modbus Poll CS\Modbus Poll CS\bin\Debug\LBIndustrialCtrls.pdb
+D:\Prj-PG\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.MainEDIT.resources
+D:\Prj-PG\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.Run.resources
+D:\Prj-PG\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.EDIT.resources
+D:\Prj-PG -2021\Modbus Poll CS\Modbus Poll CS\bin\Debug\Modbus Poll CS.exe.config
+D:\Prj-PG -2021\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.exe
+D:\Prj-PG -2021\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.pdb
+D:\Prj-PG -2021\Modbus Poll CS\Modbus Poll CS\bin\Debug\Modbus Poll CS.exe
+D:\Prj-PG -2021\Modbus Poll CS\Modbus Poll CS\bin\Debug\Modbus Poll CS.pdb
+D:\Prj-PG -2021\Modbus Poll CS\Modbus Poll CS\bin\Debug\LBIndustrialCtrls.dll
+D:\Prj-PG -2021\Modbus Poll CS\Modbus Poll CS\bin\Debug\LBIndustrialCtrls.pdb
+D:\Prj-PG -2021\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.csprojResolveAssemblyReference.cache
+D:\Prj-PG -2021\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.EDIT.resources
+D:\Prj-PG -2021\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.Form1.resources
+D:\Prj-PG -2021\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.LIMIT.resources
+D:\Prj-PG -2021\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.MainEDIT.resources
+D:\Prj-PG -2021\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.MainGUI.resources
+D:\Prj-PG -2021\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.Properties.Resources.resources
+D:\Prj-PG -2021\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus_Poll_CS.Run.resources
+D:\Prj-PG -2021\Modbus Poll CS\Modbus Poll CS\obj\Debug\Modbus Poll CS.csproj.GenerateResource.Cache
